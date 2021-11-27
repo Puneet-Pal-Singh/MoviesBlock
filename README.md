@@ -1,6 +1,6 @@
-# MoviVerse App
+# MoviesBlock App
 
-Live Project Link : 
+Live Project Link : https://moviesblock.herokuapp.com/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
